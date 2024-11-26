@@ -46,7 +46,7 @@
     "charts"
   ],
   "engines": {
-    "node": ">=22.3"
+    "node": ">=16.16.0"
   },
   "dependencies": {
     "fancy-canvas": "2.1.0"
